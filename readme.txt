@@ -1,2 +1,2 @@
-Hello world
-This is a new line in Readme.txt
+Hello world!
+Simple PHP Framework like CodeIgniter
